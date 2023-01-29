@@ -1,6 +1,5 @@
 # The Bookaholics
 A web app where users can keep their collection of books and borrow books from others with a book review system.
-05/2019 | Sylhet, Bangladesh
 
 ## Set Up
 
