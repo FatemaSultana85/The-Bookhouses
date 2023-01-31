@@ -1,4 +1,4 @@
-# The Bookaholics
+## The-Bookhouses 
 A web app where users can keep their collection of books and borrow books from others with a book review system.
 
 ## Set Up
